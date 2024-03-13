@@ -1,2 +1,17 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+
+# C++, CMake, HTML, Swift ve C için false
+*.cpp linguist-detectable=false
+*.cmake linguist-detectable=false
+*.html linguist-detectable=false
+*.swift linguist-detectable=false
+*.c linguist-detectable=false
+
+# Other için false
+*. linguist-detectable=false
+
+# Dart için true
+*.dart linguist-detectable=true
