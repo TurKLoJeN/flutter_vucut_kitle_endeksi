@@ -1,16 +1,7 @@
-# vucut_kitle_endeksi
+# Flutter Vücut Kitle Endeksi
 
-A new Flutter project.
+Bu projeyi flutter dart üzerinde kendimi geliştirmek ve öğrendiklerimi pekiştirmek için yaptım. Kendimi Flutter/Dart konusunda geliştirmeye devam edeceğim.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_22](https://github.com/TurKLoJeN/flutter_vucut_kitle_endeksi/assets/32311900/b08d41a9-619d-4e7a-b1af-35618a4bc4e5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
